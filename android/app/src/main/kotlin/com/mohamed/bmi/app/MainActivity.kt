@@ -1,4 +1,4 @@
-package com.example.bmi_app
+package com.mohamed.bmi.app
 
 import io.flutter.embedding.android.FlutterActivity
 
