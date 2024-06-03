@@ -4,4 +4,10 @@ A BMI (Body Mass Index) Flutter application offers a quick and easy way to calcu
 
 ## Screens (UI)
 
+### iOS
+
 ![Apple iPhone 11 Presentation](https://github.com/MohamedEssam9009/bmi_app/assets/77198018/23b25cf2-9955-4536-aeab-062cce185ce3)
+
+### Android
+
+![BMI Presentation](https://github.com/MohamedEssam9009/bmi_app/assets/77198018/9fbe7124-bc23-44a3-b6cb-9473dc19434c)
